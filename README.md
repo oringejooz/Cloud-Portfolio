@@ -19,8 +19,9 @@ I have hands-on experience with **AWS, Docker, Terraform, Prometheus, and Grafan
 
 ---
 
-## 🏆 **Certifications**  
-📂 **All Certificates**: [Google Drive Link](https://drive.google.com/drive/folders/1ftIpdGxN6JQkekL-x2FR82BMPVz7fgjc?usp=sharing)  
+## 🏆 **Certifications & Academic Record**  
+📂 **All Certificates & Grade Card**: [Google Drive Link](https://drive.google.com/drive/folders/1ftIpdGxN6JQkekL-x2FR82BMPVz7fgjc?usp=sharing)  
+*(Includes my latest grade card showcasing completed courses)*  
 
 🎖️ **AWS Cloud Practitioner Essentials**  
 🎖️ **AWS Cloud Quest (In Progress)**  
