@@ -31,7 +31,7 @@ That was my turning point. I wanted to not just build applications but design in
 *(Includes my latest grade card showcasing completed courses)*  
 
 🎖️ **AWS Cloud Practitioner Essentials**  
-🎖️ **AWS Cloud Quest (In Progress)**  
+🎖️ **[AWS Cloud Quest: Cloud Practitioner Essentials](https://www.credly.com/badges/2c47d3d3-fc4a-44f9-9712-d961e8a6a94c/public_url)**  
 🎖️ **HackerRank Python Basics Certification**  
 🎖️ **DevOps Bootcamp Certification**  
 🎖️ **Completion of Internship at Disha Foundation, Nashik**  
